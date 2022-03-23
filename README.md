@@ -1,5 +1,4 @@
-# portfolio
-Data Science Portfolio
+### Data Science Portfolio
 
 
 **Project 1: Sales forecasting for retail giant: Project overview**
